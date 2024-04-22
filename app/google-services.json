@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839066718960",
+    "project_id": "onlineshopapp-a2915",
+    "storage_bucket": "onlineshopapp-a2915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839066718960:android:26efd25a61624bf4a1e835",
+        "android_client_info": {
+          "package_name": "com.tooglamtogivedamn.onlineshopapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgM-ngSn7KE42mQzbFa9IO_h65ua6hd2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
